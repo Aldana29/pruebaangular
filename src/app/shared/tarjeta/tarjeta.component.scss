@@ -1,0 +1,36 @@
+.card{
+    width: 100%;
+    // box-shadow: 2px 2px;
+    border: 1px solid white;
+    font-family: sans-serif;
+    background-color: white;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.card-contenido {
+    padding: 10px;
+    color: black;
+    
+}
+
+.vuelo {
+   color: #900;
+    padding:5px;
+    margin-top: 2%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.card-contenido_title h2 {
+    border-top: 1px solid white;
+    padding-top: 2%;
+}
+
+.card-contenido_precio {
+    background-color: yellow;
+    color: black;
+    width: 20%;
+}
